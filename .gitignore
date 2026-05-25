@@ -1,0 +1,61 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+out/
+target/
+*.log
+
+### Build Artifacts ###
+*.zip
+*.tar.gz
+
+### IDEs and Editors ###
+.idea/
+*.iml
+
+### Database / Secrets ###
+# Never commit credentials or sensitive files
+# Example: config.properties that might contain passwords
+# Keep your local config files out of version control
+config.properties
+db.properties
+*.jks
+*.keystore
+
+### OS generated files ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini

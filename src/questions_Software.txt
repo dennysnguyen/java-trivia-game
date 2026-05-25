@@ -1,0 +1,50 @@
+Question 1: Which of the following is a non-linear data structure?
+Array
+Linked List
+Stack
+Binary Tree
+Question 2: In Java, which keyword is used to prevent a class from being inherited?
+static
+final
+private
+abstract
+Question 3: What is the time complexity of inserting an element at the beginning of a Singly Linked List?
+O(1)
+O(n)
+O(log n)
+O(n^2)
+Question 4: Which of the following is NOT a feature of Object-Oriented Programming?
+Encapsulation
+Inheritance
+Compilation
+Polymorphism
+Question 5: In C++, what is a virtual function used for?
+To create a template class
+To achieve runtime polymorphism
+To allocate memory on the heap
+To speed up compilation
+Question 6: Which design pattern ensures a class has only one instance?
+Factory Pattern
+Observer Pattern
+Singleton Pattern
+Strategy Pattern
+Question 7: What does the "L" in SOLID principles stand for?
+Logical Interface
+Liskov Substitution
+Layered Architecture
+Linear Dependency
+Question 8: In Git, which command is used to combine two branches?
+git push
+git commit
+git merge
+git pull
+Question 9: Which of these is a valid way to handle exceptions in Java?
+try-catch-finally
+if-else
+while-do
+switch-case
+Question 10: Which sorting algorithm has a worst-case time complexity of O(n log n)?
+Bubble Sort
+Selection Sort
+Merge Sort
+Insertion Sort

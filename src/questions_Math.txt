@@ -1,0 +1,50 @@
+Question 1: What is the value of the derivative of x^2 at x=3?
+3
+6
+9
+2
+Question 2: What is the base of natural logarithms?
+10
+2
+pi
+e
+Question 3: In a probability distribution, the sum of all probabilities must be?
+0
+0.5
+1
+Infinity
+Question 4: What is the sum of the interior angles of a hexagon?
+360°
+540°
+720°
+900°
+Question 5: Solve for x: 2x + 5 = 15.
+10
+5
+7.5
+20
+Question 6: Which of the following is a prime number?
+9
+15
+21
+17
+Question 7: What is the result of 10! / 9!?
+1
+10
+90
+100
+Question 8: In a right-angled triangle, what is the sine of 90 degrees?
+0
+0.5
+1
+undefined
+Question 9: What is the area of a square with a side length of 4?
+8
+12
+16
+20
+Question 10: What is 5 times 5?
+10
+20
+25
+30

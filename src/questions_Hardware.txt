@@ -1,0 +1,50 @@
+Question 1: Which component is known as the "brain" of the computer?
+RAM
+GPU
+CPU
+HDD
+Question 2: What does BIOS stand for?
+Basic Input Output System
+Binary Integrated Operating System
+Basic Internal Output Software
+Board Input Output Serial
+Question 3: In digital logic, which gate outputs 1 only if both inputs are 1?
+NOR Gate
+XOR Gate
+NAND Gate
+AND Gate
+Question 4: Which of the following is volatile memory?
+ROM
+SSD
+RAM
+Flash Drive
+Question 5: What is the standard protocol used for communication between a computer and a keyboard?
+USB
+SATA
+HDMI
+PCIe
+Question 6: Which hardware description language is commonly used for FPGA design?
+Python
+Verilog
+HTML
+SQL
+Question 7: What is the purpose of a "Heat Sink" in a computer?
+To increase processing speed
+To store data permanently
+To dissipate heat from components
+To provide power to the motherboard
+Question 8: Which type of register holds the address of the next instruction to be executed?
+Accumulator
+Instruction Register
+Program Counter
+Stack Pointer
+Question 9: How many bits are in a single Byte?
+4
+8
+16
+32
+Question 10: What does GPU stand for?
+General Processing Unit
+Global Position Unit
+Graphics Processing Unit
+Generic Power Unit
