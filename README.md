@@ -55,6 +55,23 @@ This project includes a `.gitignore` file to prevent accidental commitment of co
 3. Answer multiple-choice questions by selecting A, B, C, or D.
 4. Scores are updated in real-time, and a leaderboard is displayed at the end of the game.
 
+## Screenshots
+*(Placeholders - replace with actual screenshots)*
+
+1. **Server Host Screen** showing terminal/server interface:
+   ![Server Host Screen](screenshots/server-host.png)
+
+2. **Client Side** showing login/registration screen:
+   ![Client Login Screen](screenshots/client-login.png)
+
+3. **Both Server and Client** during a question section:
+   ![Gameplay Screenshot](screenshots/gameplay.png)
+
+4. **End Screen** showing final scores and leaderboard:
+   ![End Score Screen](screenshots/end-scores.png)
+
+*Note: Create a `screenshots/` directory in the project root and add your screenshots there.*
+
 ## Project Structure
 ```
 trivia_game/
